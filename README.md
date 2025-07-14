@@ -1,3 +1,3 @@
 # Bulls-Cows
-Bulls and cows game:
+Bulls and cows game
 
